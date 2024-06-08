@@ -15,5 +15,5 @@
 
     <img src="https://disk.mediaindonesia.com/thumbs/1200x-/news/2022/02/02cf06aeb3e9c07aaba4ee0a2bb4fba1.jpg" /> <br>
     <br>
-    <h2>from diri sendiri ( Fathul Qadri )</h2>
+    <h2>from diri sendiri anjay ( Fathul Qadri )</h2>
 </html>
